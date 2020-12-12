@@ -11,8 +11,6 @@
         "php": "^7.2",
         "fideloper/proxy": "^4.0",
         "guzzlehttp/guzzle": "^6.4",
-        "kreait/firebase-php": "4.35",
-        "kreait/laravel-firebase": "^1.2",
         "laravel/framework": "^6.2",
         "laravel/passport": "^8.0",
         "laravel/tinker": "^1.0",
